@@ -7,7 +7,7 @@ A fork from [oh-my-termux](https://github.com/4679/oh-my-termux) 。让你的 Te
 **此 Repo 使用 Termux 官方源，在中国大陆可能需要将 Termux 应用添加到代理列表。**
 ## 使用：
 ```shell
-sh -c "$(curl -fsSL https://github.com/Cabbagec/termux-ohmyzsh/raw/master/install.sh)"
+sh -c "$(curl -fsSL https://github.com/zyw271828/termux-ohmyzsh/raw/master/install.sh)"
 ```
 
 ## 设置色彩样式：
@@ -70,7 +70,7 @@ Termux-ohmyzsh implements oh-my-zsh and [zsh-syntax-highlighting](https://github
 
 ## Install:
 ```shell
-sh -c "$(curl -fsSL https://github.com/Cabbagec/termux-ohmyzsh/raw/master/install.sh)"
+sh -c "$(curl -fsSL https://github.com/zyw271828/termux-ohmyzsh/raw/master/install.sh)"
 ```
 
 ## Change color scheme:
