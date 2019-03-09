@@ -53,7 +53,7 @@ sh -c "$(curl -fsSL https://github.com/zyw271828/termux-ohmyzsh/raw/master/insta
 如需更好的打字输入支持，在 `音量加+Q` 的小键盘上向左滑动即可
 
 ## 示例
-Tango 颜色主题 + oh-my-zsh agnoster 主题 + Ubuntu 字体：
+Solarized Dark 配色方案 + oh-my-zsh agnoster 主题 + Iosevka 字体：
 
 ![](./termux-ohmyzsh.png)
 - - -
@@ -116,6 +116,6 @@ For better text input experience, swipe left on the `VolUp+Q` key bar.
 
 
 ## Example
-Tango color scheme + agnoster oh-my-zsh theme + Ubuntu font:
+Solarized Dark color scheme + oh-my-zsh agnoster theme + Iosevka font:
 
 ![](./termux-ohmyzsh.png)
