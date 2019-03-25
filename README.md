@@ -55,7 +55,7 @@ sh -c "$(curl -fsSL https://github.com/zyw271828/termux-ohmyzsh/raw/master/insta
 ## 示例
 Solarized Dark 配色方案 + oh-my-zsh agnoster 主题 + Iosevka 字体：
 
-![](./termux-ohmyzsh.png)
+<p align="center"><img src="./termux-ohmyzsh.png" width="250"/></p>
 - - -
 
 # Termux-ohmyzsh
@@ -118,4 +118,4 @@ For better text input experience, swipe left on the `VolUp+Q` key bar.
 ## Example
 Solarized Dark color scheme + oh-my-zsh agnoster theme + Iosevka font:
 
-![](./termux-ohmyzsh.png)
+<p align="center"><img src="./termux-ohmyzsh.png" width="250"/></p>
