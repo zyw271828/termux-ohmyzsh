@@ -19,6 +19,10 @@ echo "alias chfont='$HOME/.termux/fonts.sh'" >> "$HOME/.zshrc"
 git clone https://github.com/zsh-users/zsh-syntax-highlighting.git "$HOME/.zsh-syntax-highlighting" --depth 1
 echo "source $HOME/.zsh-syntax-highlighting/zsh-syntax-highlighting.zsh" >> "$HOME/.zshrc"
 
+git clone https://github.com/zsh-users/zsh-autosuggestions.git "$HOME/.zsh-autosuggestions" --depth 1
+echo "source $HOME/.zsh-autosuggestions/zsh-autosuggestions.zsh" >> "$HOME/.zshrc"
+echo "ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=10'" >> "$HOME/.zshrc"
+
 chsh -s zsh
 
 echo "oh-my-zsh install complete!\nChoose your color scheme now~"
